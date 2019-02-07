@@ -1,0 +1,4 @@
+/client/node_modules
+/client/static.json
+/server/node_modules
+/server/Procfile
